@@ -32,12 +32,19 @@
 
 ---
 
-## 🌌 System Analytics (Live)
+
+
+
+
+---
+
+## 📈 CONTRIBUTION MATRIX
+
 <p align="center">
-  <!-- GitHub stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qanani23&show_icons=true&theme=dark&hide_border=true&bg_color=0d0f12&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qanani23&layout=compact&theme=dark&hide_border=true&bg_color=0d0f12&title_color=00F7FF&text_color=ffffff" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qanani23&bg_color=0d1117&color=00F7FF&line=8A2BE2&point=00F7FF&area=true&hide_border=true" />
 </p>
+
+
 
 ---
 
@@ -47,7 +54,7 @@
   <img src="https://api.star-history.com/svg?repos=qanani23/qanani23&type=Date" alt="Star History"/>
 </p>
 
-> Note: this shows your repo's star growth over time — great for social proof.
+
 
 ---
 
