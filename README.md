@@ -1,9 +1,10 @@
 # <p align="center">🖤 KENENI — YOUR FULLSTACK CREATIVE DEVELOPER</p>
 
 <p align="center">
-  <!-- HERO: neon venom capsule -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KENENI%20%7C%20CREATIVE%20ELITE%20WEBS&fontSize=56&color=0:00F7FF,50:0f2027,100:8A2BE2&stroke=00F7FF&animation=fadeIn&fontColor=ffffff" alt="KENENI | Dark Hacker Elite"/>
+  <!-- HERO: yellow venom capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KENENI%20%7C%20CREATIVE%20ELITE%20WEBS&fontSize=56&color=0:FFD700,50:FFB703,100:FB8500&stroke=FFD700&animation=fadeIn&fontColor=000000" alt="KENENI | Creative Elite Webs"/>
 </p>
+
 
 <p align="center">
   <!-- Neon typing intro -->
