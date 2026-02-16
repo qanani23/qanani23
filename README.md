@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,30&text=KENENI%20%7C%20Full%20Stack%20Developer&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Building%20Startups.%20Writing%20Scalable%20Code.%20Trading%20Precision.&descAlignY=65&descAlign=50"/>
-</p>
+ </p>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
