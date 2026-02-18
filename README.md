@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Neon typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%7C+Startup+Architect;Precision+Trader+%7C+System+Designer;UI%2FUX+Perfectionist+%7C+Relentless+Problem+Solver" alt="typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%7C+Startup+Architect;Precision+coder+%7C+System+Designer;UI%2FUX+Perfectionist+%7C+Relentless+Problem+Solver" alt="typing intro"/>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@
 
 ## 🔐 Mission Log
 ```text
-> initialize: keneni-mode: elite
-> objective: build -> scale -> monetize
+> building saas produts
+> monetize my apps
 > principles: readability, speed, testability
-> motto: code fast, ship safe, iterate forever
+>  code fast, ship safe, iterate forever
