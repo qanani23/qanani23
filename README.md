@@ -5,6 +5,25 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KENENI%20%7C%20CREATIVE%20ELITE%20WEBS&fontSize=56&color=0:FFD700,50:FFB703,100:FB8500&stroke=FFD700&animation=fadeIn&fontColor=000000" alt="KENENI | Creative Elite Webs"/>
 </p>
 
+<!-- 🚀 PORTFOLIO SPOTLIGHT (button-style, attention-grabbing) -->
+<h1 align="center">⚡ EXPLORE MY LIVE PORTFOLIO ⚡</h1>
+
+<p align="center">
+  <a href="https://keneni.netlify.app/" target="_blank">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=🚀%20OPEN%20MY%20PORTFOLIO%20—%20KENENI.NETLIFY.APP&fontSize=24&color=0:FFD700,100:FB8500&fontColor=000000"
+      alt="Open my portfolio button"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://keneni.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FFD700&center=true&vCenter=true&width=520&lines=👉+Click+the+button+above+to+view+my+live+work" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <!-- Neon typing intro -->
@@ -29,13 +48,7 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,firebase,tailwind,python,figma,git,linux&theme=dark" alt="tech icons"/>
 </p>
 
-
-
 ---
-
-
-
-
 
 ---
 
@@ -45,8 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qanani23&bg_color=0d1117&color=00F7FF&line=8A2BE2&point=00F7FF&area=true&hide_border=true" />
 </p>
 
-
-
 ---
 
 ## 🌠 3D Star History Matrix
@@ -54,8 +65,6 @@
   <!-- Star history (visual timeline) -->
   <img src="https://api.star-history.com/svg?repos=qanani23/qanani23&type=Date" alt="Star History"/>
 </p>
-
-
 
 ---
 
@@ -69,12 +78,9 @@
   <img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 </p>
 
-
-
 ---
 
 ## 🛠 Featured Projects
-
 
 - **Startup Core** — Scalable backend + user auth + low-latency streaming.  
 - **Trading Engine** — Backtested forex strategies & execution pipeline.  
