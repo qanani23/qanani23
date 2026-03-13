@@ -92,5 +92,4 @@
 ```text
 > building saas produts
 > monetize my apps
-> principles: readability, speed, testability
 >  code fast, ship safe, iterate forever
